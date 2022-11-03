@@ -6,7 +6,12 @@ Javascript | Frontend Developer, I have created several projects using JavaScrip
 
 
 
+⚙ My stack technologies
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 - 👋 Hi, I’m @Efrael Villanueva
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
