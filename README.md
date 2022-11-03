@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @EfraelTino
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React, Node.js, Express, and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and take a role in software architecture to create great applications. Team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.
+- 📫 How to reach me.
 
-🚀 I am part of the best community ever: 💚Platzi Master.
+
+- 👋 Hi, I’m Efrael Villanueva Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as React, Node.js, Express, Java EE, Php, and Bootstrao. I am also proficient using SQL, and Mysql. My goal is grow as a professional, reach a high Junior level and take a role in software architecture to create great applications. Team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.
+
+🚀 I am student of the computing and information in: 💚 "Huanta" public technological higher education institute.
 
 
 
@@ -13,7 +15,7 @@ Javascript | Frontend Developer, I have created several projects using JavaScrip
 
 ⚙ My stack technologies
 ________________________________________________________________________________________________________________________________________________________________
-| Lenguajes de Programacion                                    | Frontend      | | Backend       |
-| -------------------------------------------------------------| ------------- | | ------------- |
-|![](https://github.com/EfraelTino/EfraelTino/blob/main/js.svg)| ola           | |Content Cell   |
-|![](https://github.com/EfraelTino/EfraelTino/blob/main/ty.svg)| Content Cell  | | Content Cell  |
+| Languajes Programming | Frontend | Backend |
+| :---: | :---: | :---: |
+|![](https://github.com/EfraelTino/EfraelTino/blob/main/js.svg) <br> | ![](https://github.com/EfraelTino/EfraelTino/blob/main/html.svg) ![](https://github.com/EfraelTino/EfraelTino/blob/main/re.svg) ![](https://github.com/EfraelTino/EfraelTino/blob/main/sass.svg) <br> ![](https://github.com/EfraelTino/EfraelTino/blob/main/css.svg) | ![](https://github.com/EfraelTino/EfraelTino/blob/main/nd.svg) <br> ![](https://github.com/EfraelTino/EfraelTino/blob/main/ex.svg) |
+
