@@ -8,9 +8,9 @@ Javascript | Frontend Developer, I have created several projects using JavaScrip
 
 ⚙ My stack technologies
 ________________________________________________________________________________________________________________________________________________________________
-| Lenguajes de Programacion| Frontend | | Backend |
+| Lenguajes de Programacion| Frontend      | | Backend       |
 | -------------            | ------------- | | ------------- |
-|                          | | Content Cell  |
+|                          |               | Content Cell    |
 | Content Cell             | Content Cell  | | Content Cell  |
 - 👋 Hi, I’m @Efrael Villanueva
 - 👀 I’m interested in ...
