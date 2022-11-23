@@ -13,5 +13,5 @@
 ________________________________________________________________________________________________________________________________________________________________
 | Languajes Programming | Frontend | Backend |
 | :---: | :---: | :---: |
-|![](https://github.com/EfraelTino/EfraelTino/blob/main/js.svg) <br> | ![](https://github.com/EfraelTino/EfraelTino/blob/main/html.svg) ![](https://github.com/EfraelTino/EfraelTino/blob/main/re.svg) ![](https://github.com/EfraelTino/EfraelTino/blob/main/sass.svg) <br> ![](https://github.com/EfraelTino/EfraelTino/blob/main/css.svg) | ![](https://github.com/EfraelTino/EfraelTino/blob/main/nd.svg) <br> ![](https://github.com/EfraelTino/EfraelTino/blob/main/JAVA.svg) | 
+|![](https://github.com/EfraelTino/EfraelTino/blob/main/js.svg) <br> | ![](https://github.com/EfraelTino/EfraelTino/blob/main/html.svg) ![](https://github.com/EfraelTino/EfraelTino/blob/main/re.svg) ![](https://github.com/EfraelTino/EfraelTino/blob/main/sass.svg) <br> ![](https://github.com/EfraelTino/EfraelTino/blob/main/css.svg) | ![](https://github.com/EfraelTino/EfraelTino/blob/main/php.svg) <br> ![](https://github.com/EfraelTino/EfraelTino/blob/main/JAVA.svg) | 
 
