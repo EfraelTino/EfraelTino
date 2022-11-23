@@ -17,4 +17,4 @@ ________________________________________________________________________________
 
 | RDBMS | Herramientas de desarrollo |
 | :---: | :---: |
-|![] (https://github.com/EfraelTino/EfraelTino/blob/main/js.svg) <br> | ![](https://github.com/EfraelTino/EfraelTino/blob/main/php.svg) <br> ![]|
+| ![](https://github.com/EfraelTino/EfraelTino/blob/main/js.svg) <br> | ![](https://github.com/EfraelTino/EfraelTino/blob/main/php.svg) <br> ![]|
